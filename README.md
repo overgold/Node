@@ -1,4 +1,4 @@
-#To become a validator node, you need to meet several requirements:
+##To become a validator node, you need to meet several requirements:
 
 1) You need to register your wallet on the Overgold network. To do this, go to https://overgold.app/auth/user-registration?lang=en and create your own wallet.
 2) You need to purchase some OVG coins (even 1 coin will suffice) so that you can make transactions on the Overgold network. The coins must be in your wallet.
